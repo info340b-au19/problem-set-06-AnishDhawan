@@ -41,5 +41,7 @@
       ]
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
 }
